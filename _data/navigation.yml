@@ -1,0 +1,11 @@
+main:
+  - title: "Updates"
+    url: /updates/
+  - title: "Schedule"
+    url: /schedule/  
+  - title: "Travel"
+    url: /travel/
+  - title: "Things to do"
+    url: /things-to-do/
+  - title: "About"
+    url: /about/
