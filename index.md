@@ -12,4 +12,3 @@ excerpt: >
 
 Hey what's up? How are you? We're getting married and we would love for you to join us!
 
-[RSVP](#link){: .btn .btn--inverse}
