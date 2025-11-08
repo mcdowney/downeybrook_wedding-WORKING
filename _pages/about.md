@@ -7,13 +7,13 @@ header:
   image: /assets/images/IMG_1141.png
   
 feature_row:
-  - image_path: /assets/images/CSE_logo.jpg
+  - image_path: /assets/images/CSE_logo.png
     alt: "Campaign for Southern Equality"
     title: "Campaign for Southern Equality"
     url: "https://southernequality.org/"
     btn_class: "btn--primary"
     btn_label: "Donate to CSE"
-  - image_path: /assets/images/DSC_logo.jpg
+  - image_path: /assets/images/DSC_logo.png
     alt: "DSC"
     title: "DSC"
     url: "https://www.disputesettlement.org/"
