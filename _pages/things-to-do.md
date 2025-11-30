@@ -1,13 +1,12 @@
 ---
 title: "Things to do around the Triangle"
+layout: splash
 permalink: /things-to-do/
-classes: wide
+header:
+  overlay_image: /assets/images/old-well.jpg
 ---
 Most of you are at least passingly familiar with the Triangle, but some of you are not! We've both lived here for over 20 years, and we love it here. Some of our faves include...
 
-<figure style="width: 500px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/chapel-hill.jpg" alt="">
-</figure> 
 
 # Chapel Hill
 We live here!  
@@ -17,6 +16,7 @@ We live here!
 - [Flyleaf bookstore](https://flyleafbooks.com/) -- unsurprisingly one of a few indy bookstores in the area (Epilogue and Golden Fig are also nice), but we [heart] Flyleaf especially
 - [Franklin Street Yoga](https://www.franklinstyoga.com/) -- Lori's studio is great if you need a stretch while you're here
 - [North Carolina Botanical Gardens](https://ncbg.unc.edu/) -- the [Home of the Venus Flytrap License Plate](https://ncbg.unc.edu/support/venus-flytrap-license-plate/) is, fun fact, right down the street from our house! They have a nice little trail network if you fancy a walk
+- The [Ackland Art Museum](https://ackland.org/) on Chapel Hill's campus is a tiny gem on the edge of UNC's campus
 
 ## Food and drink
 - [IP3](https://www.italianpizzeria3.com/) (Italian Pizzeria III (no, we don't know what happened to I or II)) – the place to be
@@ -27,12 +27,8 @@ We live here!
 
 ***
 
-<figure style="width: 500px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/carrboro.jpg" alt="">
-</figure> 
-
 # Carrboro
-Paris of the Piedmont
+Paris of the Piedmont!
 
 ## Things to do
 - [Weaver Street Market](https://www.weaverstreetmarket.coop/location/carrboro/), original location (the lawn is, to quote Chris, "Carrborific")
@@ -46,10 +42,6 @@ Paris of the Piedmont
 - Drinks: [Orange County Social Club](https://www.orangecountysocialclub.net/) – Carrboro's late night living room
 
 ***
-
-<figure style="width: 500px" class="align-right">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/hillsborough.jpg" alt="">
-</figure> 
 
 # Hillsborough
 Seat of Orange County
