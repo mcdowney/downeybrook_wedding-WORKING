@@ -3,14 +3,13 @@ title: "Things to do around the Triangle"
 layout: splash
 permalink: /things-to-do/
 header:
-  overlay_image: /assets/images/old-well.jpg
+  overlay_image: /assets/images/old-well.png
 ---
 Most of you are at least passingly familiar with the Triangle, but some of you are not! We've both lived here for over 20 years, and we love it here. Some of our faves include...
 
 
 # Chapel Hill
-We live here!  
-
+We live here!
 ## Things to do
 - UNC's campus is beautiful at most times, but especially in the fall.
 - [Flyleaf bookstore](https://flyleafbooks.com/) -- unsurprisingly one of a few indy bookstores in the area (Epilogue and Golden Fig are also nice), but we [heart] Flyleaf especially
@@ -24,6 +23,8 @@ We live here!
 - [Med Deli](https://mediterraneandeli.com/chapel-hill) – recently reopened after a major fire, pop in and grab some shawarma
 - Coffee: [Perennial](https://www.perennial.cafe/) (on Franklin Street) or [Driade](https://caffedriade.com/) (further down Franklin Street, but also in the woods somehow??)
 - Drinks: If you like classic cocktails, leather furniture, or fireplaces, check out [The Crunkleton](https://thecrunkleton.com/) or [The Dead Mule](https://deadmuleclub.com/)
+
+<br>
 
 ***
 
@@ -41,6 +42,8 @@ Paris of the Piedmont!
 - Coffee: [Open Eye](https://openeyecafe.com/) – Carrboro's living room
 - Drinks: [Orange County Social Club](https://www.orangecountysocialclub.net/) – Carrboro's late night living room
 
+<br>
+
 ***
 
 # Hillsborough
@@ -56,11 +59,18 @@ Seat of Orange County
 - [Wooden Nickel](https://www.thewnp.com/) – most excellent brew pub downtown
 - Coffee: [Cup-a-Joe](https://www.hboro-cupajoe.com/) – delightful local chain 
 
+<br>
+
+***
+
 # Chatham County
 ## Things to do
 - Pottery studios – Chatham county, and Pittsboro in particular, is home to a wealth of pottery studios
 - Chatham County courthouse in Pittsboro (a neat building that, fun fact, held evidence during the John Edwards trial)
 
+<br>
+
+***
 
 # Raleigh and Durham
 Both are very close and have a lot to do. For example, the [North Carolina Museum of Art](https://ncartmuseum.org/) in Raleigh is wonderful, free to visit, and situated in [an extensive park](https://ncartmuseum.org/visit/museum-park/) with outdoor art installations and plenty of room for kids to run off some energy. For other recommendations around Raleigh and Durham, shoot us a text or an email and we're happy to send some options.
