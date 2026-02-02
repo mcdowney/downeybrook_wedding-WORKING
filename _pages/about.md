@@ -10,19 +10,19 @@ feature_row:
   - image_path: /assets/images/CSE_logo.png
     alt: "Campaign for Southern Equality"
     title: "Campaign for Southern Equality"
-    url: "https://southernequality.org/"
+    url: "https://southernequality.app.neoncrm.com/forms/donation_cse_website_form"
     btn_class: "btn--primary"
     btn_label: "Donate to CSE"
   - image_path: /assets/images/DSC_logo.png
     alt: "DSC"
-    title: "DSC"
-    url: "https://www.disputesettlement.org/"
+    title: "DSC NC"
+    url: "https://dscnc.org/donate/"
     btn_class: "btn--primary"
     btn_label: "Donate to DSC"
   - image_path: /assets/images/porch_logo.png
     alt: "PORCH Chapel Hill-Carrboro"
     title: "PORCH Chapel Hill-Carrboro"
-    url: "https://chapelhill.porchcommunities.org/"
+    url: "https://wl.donorperfect.net/weblink/weblink.aspx?name=E353731&id=1"
     btn_class: "btn--primary"
     btn_label: "Donate to PORCH" 
 ---
@@ -39,7 +39,7 @@ The Haw River Ballroom in Saxapahaw! It's great!
 Yes absolutely!
 
 # Do you guys have a dress code or theme?
-We don't have a color scheme or official dress code. That said, it's a wedding, and you'll probably be photographed! Chris says "I think a tie is optional, but men should wear a coat and that sets the appropriate tone that everyone can take into account and then dress accordingly." (He is a lawyer.)
+We don't have a color scheme or official dress code. That said, it's a wedding, and you'll probably be photographed! Chris says "I think a tie is optional, but men should wear a coat and that sets the appropriate tone that everyone can take into account and then dress accordingly." (Moira translates this as: "consider cocktail or semi-formal attire.")
 
 # What are you feeding us?
 Dinner will be provided by the [Saxapahaw General Store](https://www.saxgenstore.com/), which is one of our local faves. Dinner will be stations, so no need to select a dish with your RSVP.
