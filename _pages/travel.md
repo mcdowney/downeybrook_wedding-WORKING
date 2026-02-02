@@ -5,10 +5,17 @@ permalink: /travel/
 header:
   overlay_image: /assets/images/carolina-inn.jpg
 ---
-If you're joining us from out of town, you've got plenty of options for lodging. We recommend considering a place to stay early, as football will still be happening in late October. All hotels are walking distance from [many things to see and do in Chapel Hill and Carrboro](https://www.downeybrookwedding.com/things-to-do). There are also, of course, Airbnb options throughout the Triangle.
+If you're joining us from out of town, you've got plenty of options for lodging. As luck would have it (and because Moira needed another reason to rant about Bill Belichick), UNC has a home football game against Syracuse on October 24, so **we recommend considering a place to stay early.**  
+\\
+We will have a block of rooms at the Tru by Hilton in Chapel Hill, but there are other options to consider. There are also, of course, Airbnb options throughout the Triangle.
+
+# Tru by Hilton, Chapel Hill 
+We have a block of rooms with a group rate.  
+1742 Fordham Blvd  
+Chapel Hill, NC 27514
 
 # Hampton Inn, Carrboro
-We will have a block of rooms available at the Hampton Inn in downtown Carrboro, which is conveniently situated steps away from Friday evening's activities. More info to come on the block.  
+Conveniently situated steps away from Friday evening's activities.  
 370 E Main St Unit 100  
 Carrboro, NC 27510
 

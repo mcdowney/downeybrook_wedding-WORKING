@@ -39,7 +39,7 @@ The Haw River Ballroom in Saxapahaw! It's great!
 Yes absolutely!
 
 # Do you guys have a dress code or theme?
-We don't have a color scheme or official dress code. That said, it's a wedding, and you'll probably be photographed! Chris says "I think a tie is optional, but men should wear a coat and everybody can improvise from there."
+We don't have a color scheme or official dress code. That said, it's a wedding, and you'll probably be photographed! Chris says "I think a tie is optional, but men should wear a coat and that sets the appropriate tone that everyone can take into account and then dress accordingly." (He is a lawyer.)
 
 # What are you feeding us?
 Dinner will be provided by the [Saxapahaw General Store](https://www.saxgenstore.com/), which is one of our local faves. Dinner will be stations, so no need to select a dish with your RSVP.
