@@ -18,8 +18,8 @@ subtitle: Chris and Moira are getting married.
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Chris and Moira are getting married.
-twitter_username: username
-github_username: username
+# twitter_username: username
+# github_username: username
 minimal_mistakes_skin: default
 search: false
 atom_feed:

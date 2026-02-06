@@ -5,12 +5,12 @@ permalink: /travel/
 header:
   overlay_image: /assets/images/carolina-inn.jpg
 ---
-If you're joining us from out of town, you've got plenty of options for lodging. As luck would have it (and because Moira needed another reason to rant about Bill Belichick), UNC has a home football game against Syracuse on October 24, so **we recommend considering a place to stay early.**  
+If you're joining us from out of town, you've got plenty of choices for lodging. As luck would have it (and because Moira needed another reason to rant about Bill Belichick), UNC has a home football game against Syracuse on October 24, so **we recommend considering a place to stay early.**  
 \\
-We will have a block of rooms at the Tru by Hilton in Chapel Hill, but there are other options to consider. There are also, of course, Airbnb options throughout the Triangle.
+We will have a block of rooms at the Tru by Hilton in Chapel Hill, but there are other options to consider. There are also, of course, Airbnb rentals throughout the Triangle.
 
 # Tru by Hilton, Chapel Hill 
-We have a block of rooms with a group rate.  
+We have a block of rooms with a group rate - we'll have more info shortly!  
 1742 Fordham Blvd  
 Chapel Hill, NC 27514
 
