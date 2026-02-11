@@ -21,6 +21,7 @@ We live here!
 - [IP3](https://www.italianpizzeria3.com/) (Italian Pizzeria III (no, we don't know what happened to I or II)) – the place to be
 - [Lantern](https://www.lanternrestaurant.com/) – tasty food, gorgeous bar, lovely outdoor dining
 - [Med Deli](https://mediterraneandeli.com/chapel-hill) – recently reopened after a major fire, pop in and grab some shawarma
+- [Guglhupf](https://guglhupf.com/chapel-hill-bake-shop/) - Chapel Hill outpost of an excellent German bakery based in Durham, if you need some Landbrot while you're here
 - Coffee: [Perennial](https://www.perennial.cafe/) (on Franklin Street) or [Driade](https://caffedriade.com/) (further down Franklin Street, but also in the woods somehow??)
 - Drinks: If you like classic cocktails, leather furniture, or fireplaces, check out [The Crunkleton](https://thecrunkleton.com/) or [The Dead Mule](https://deadmuleclub.com/)
 

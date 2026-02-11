@@ -10,12 +10,13 @@ If you're joining us from out of town, you've got plenty of choices for lodging.
 We will have a block of rooms at the Tru by Hilton in Chapel Hill, but there are other options to consider. There are also, of course, Airbnb rentals throughout the Triangle.
 
 # Tru by Hilton, Chapel Hill 
+We have a block rate here.  
 Reservations can be made by contacting the hotel directly at 984-291-7200 and mentioning the group code "913" or "Downey Brook Wedding" prior to the cutoff date of 9-23-2026 to receive the discounted group rate. Online reservations [can be made here](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=RDUCERU&arrivalDate=2026-10-23&departureDate=2026-10-25&groupCode=913&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink).   
 1742 Fordham Blvd  
 Chapel Hill, NC 27514
 
 # Hampton Inn, Carrboro
-Conveniently situated steps away from Friday evening's activities.  
+[Carrboro's Hampton Inn](https://www.hilton.com/en/hotels/rducohx-hampton-suites-chapel-hill-carrboro-downtown/) is conveniently situated steps away from Friday evening's activities.  
 370 E Main St Unit 100  
 Carrboro, NC 27510
 
@@ -25,7 +26,6 @@ If you want to experience a Chapel Hill institution, [The Carolina Inn](https://
 Chapel Hill, NC 27516
 
 # Graduate by Hilton, Chapel Hill
-Right on Franklin Street! Next door to [Perennial](https://www.perennial.cafe/) coffee and across the street from the Gary's fancy cocktails at [The Crunkleton](https://thecrunkleton.com/).  
+Right on Franklin Street! Next door to [Perennial](https://www.perennial.cafe/) coffee and across the street from Gary's fancy cocktails at [The Crunkleton](https://thecrunkleton.com/).  
 311 W Franklin St  
 Chapel Hill, NC 27516
-
