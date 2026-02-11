@@ -10,7 +10,7 @@ If you're joining us from out of town, you've got plenty of choices for lodging.
 We will have a block of rooms at the Tru by Hilton in Chapel Hill, but there are other options to consider. There are also, of course, Airbnb rentals throughout the Triangle.
 
 # Tru by Hilton, Chapel Hill 
-We have a block of rooms with a group rate - we'll have more info shortly!  
+Reservations can be made by contacting the hotel directly at 984-291-7200 and mentioning the group code "913" or "Downey Brook Wedding" prior to the cutoff date of 9-23-2026 to receive the discounted group rate. Online reservations [can be made here](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=RDUCERU&arrivalDate=2026-10-23&departureDate=2026-10-25&groupCode=913&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink).   
 1742 Fordham Blvd  
 Chapel Hill, NC 27514
 
