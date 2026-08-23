@@ -1,6 +1,6 @@
 ---
-title	Ceremony updates
-date	2026-08-23
+title: "Ceremony updates"
+date:	2026-08-23
 ---
 
 We're just about two months out and are very excited to see everyone!  
