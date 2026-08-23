@@ -18,10 +18,10 @@ Everyone is invited to join us at [Orange County Social Club](https://www.orange
 
 # Saturday
 ## How do I get to Saxapahaw?
-You've got options! It's about a 20-25 minute drive from Carrboro and Chapel Hill. We will have a shuttle bus leaving from downtown Carrboro (details TK). 
+You've got options! It's about a 20-25 minute drive from Carrboro and Chapel Hill. We will have a shuttle bus leaving from the Hampton Inn in downtown Carrboro. The shuttle bus will leave Carrboro at 3PM to ensure everyone is able to arrive for the service at 4PM. 
 \\
 \\
 We highly recommend you take a shuttle, as there is limited parking directly adjacent to the wedding location. And, if you're not driving, **be advised that ride shares will drop you off in Saxapahaw but they will NOT pick you back up!** 
 \\
 \\
-More details about the service will be forthcoming.
+The service will begin at 4PM, followed by a cocktail hour from 4:30 to 6. Dinner will begin around 6, and will be followed by dancing until 10PM. 
